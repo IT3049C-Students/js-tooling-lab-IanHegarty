@@ -11,9 +11,10 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/do
 - [ ] submit the repository link on Canvas
 
 ## Self-Evaluation: 
-how many points out of 10 do you deserve on this assignment: 
+how many points out of 10 do you deserve on this assignment: 7
 
 ## Self-Reflection:
+This lab was a little confusing at parts. I tried to follow along but kept getting errors.
 
-
-### How long it took me to finish this?
+### How long it took me to finish this? 
+2.5hours
